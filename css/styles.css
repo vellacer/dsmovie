@@ -63,11 +63,8 @@ a, a:hover {
     padding: 40px 10px;
 }
 
-
 .dsmovie-card {
     width: 100%;
-   
-
 }
 
 .dsmovie-card img {
@@ -94,7 +91,6 @@ a, a:hover {
 }
 
 .dsmovie-btn, .dsmovie-btn:hover {
-
     width: 180px;
     height: 40px;
     background-color: var(--color-primary);
