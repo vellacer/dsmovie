@@ -53,7 +53,6 @@ a, a:hover {
 .dsmovie-contact-container {
     display: flex;
     align-items: center;
-
 }
 
 .dsmovie-contact-container img {
@@ -61,7 +60,7 @@ a, a:hover {
 }
 
 #dsmovie-card-list {
-    padding: 40px 0;
+    padding: 40px 10px;
 }
 
 
@@ -84,7 +83,7 @@ a, a:hover {
     justify-content: space-between;
     background-color: var(--white);
     border-radius: 0 0 8px 8px;
-    height: 220 px;
+    height: 190px;
 }
 
 .dsmovie-card-description h3 {
@@ -132,7 +131,7 @@ a, a:hover {
 .dsmovie-form-description h3 {
     font-size: 13px;
     font-weight: 700;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .dsmovie-card-description-bottom {
